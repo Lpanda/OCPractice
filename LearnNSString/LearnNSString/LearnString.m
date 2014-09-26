@@ -34,4 +34,8 @@
     NSLog(@"%@", subToTest);
     
 }
+
++(void)HelloFromys{
+    NSLog(@"ys test");
+}
 @end
